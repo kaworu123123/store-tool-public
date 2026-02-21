@@ -6,6 +6,8 @@
 紙やメールではなく Web で指示を配信し、  
 店舗の回答・完了を一覧で把握できます。
 
+<img width="1047" height="894" alt="スクリーンショット 2026-02-21 100058" src="https://github.com/user-attachments/assets/4aa3e2d2-8dd1-4d3a-a405-16bc68f65156" />
+
 ---
 
 ## できること
@@ -30,8 +32,13 @@
 - 本部とのメッセージ（設定で有効時のみ）
 - スマホ縦画面でも操作しやすい画面
 
----
+<img width="1061" height="867" alt="スクリーンショット 2026-02-21 100143" src="https://github.com/user-attachments/assets/7caa4aae-00f1-49fb-99bd-a3d31e24dcf0" />
 
+<img width="1140" height="881" alt="スクリーンショット 2026-02-21 100104" src="https://github.com/user-attachments/assets/bc2bef79-84a2-41ce-a55c-6be895c2e69b" />
+
+<img width="1147" height="1228" alt="スクリーンショット 2026-02-21 100112" src="https://github.com/user-attachments/assets/464896c7-de25-468e-aa1b-e391c4dae444" />
+
+---
 ## 特徴
 
 - **閉域ネットワーク前提**
@@ -41,6 +48,10 @@
 - DB は SQLite（1ファイル・軽量・運用が簡単）
 - 静的 HTML + vanilla JS（SPA なし・挙動が分かりやすい）
 - 画像添付対応（業務指示・要望・リクエスト・メッセージ）
+
+<img width="1253" height="812" alt="スクリーンショット 2026-02-21 100251" src="https://github.com/user-attachments/assets/4364d083-8c84-4aff-acca-fbe3b030ea96" />
+
+<img width="1873" height="1236" alt="スクリーンショット 2026-02-21 100315" src="https://github.com/user-attachments/assets/da573f69-f2d1-474d-a206-5d5f40ae265f" />
 
 ---
 
